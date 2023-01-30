@@ -1,0 +1,11 @@
+
+nav a{
+    color: #1e1e1e;
+    display: inline-block;
+    margin: 0 1rem;
+    text-decoration: none;
+    
+}
+nav a:hover{
+    border-bottom: 1px solid #1e1e1e;
+}
